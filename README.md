@@ -23,7 +23,7 @@ If no image is found locally or via the API, a blank image with Vine's 'V' logo 
 
 ## Example
 
-To get the thumbnail for this Vine post (https://vine.co/v/MIjTE3ZDxa3), we just need to use the video ID (at the end of the URL) and then use it like so:
+To get the thumbnail for [this Vine post](https://vine.co/v/MIjTE3ZDxa3), we just need to use the video ID (at the end of the URL) and then use it like so:
 
 ```
 <img src="vine-thumb/MIjTE3ZDxa3" alt="Screenshot of Christian's Vine post">
