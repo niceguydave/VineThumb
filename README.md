@@ -16,6 +16,8 @@ Vine's API is publically exposed via the XHR requests made on their new website.
 
 Using this API we can get the thumbnail of the image and with some PHP we can make a local copy of it. All you need to use is the video's ID.
 
+If no image is found locally or via the API, a blank image with Vine's 'V' logo is served instead.
+
 ![Thumbnail request flow diagram](media/flow.jpg)
 
 
