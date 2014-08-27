@@ -35,3 +35,8 @@ To get the thumbnail for this Vine post (https://vine.co/v/MIjTE3ZDxa3), we just
 - PHP 5.3+
 - Write permissions on file system
 - .htaccess support (alternatively can be changed from using 'pretty URL' to basic URL parameters)
+
+
+## Demo
+
+View a demo of a click-embedded Vine video player that uses thumbnails [on CodePen](http://codepen.io/seanislegend/full/pjFql/).
