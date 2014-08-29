@@ -32,9 +32,18 @@ To get the thumbnail for [this Vine post](https://vine.co/v/MIjTE3ZDxa3), we jus
 
 ## Requirements
 
+### PHP
+
 - PHP 5.3+
 - Write permissions on file system
 - .htaccess support (alternatively can be changed from using 'pretty URL' to basic URL parameters)
+
+### Django
+
+- Python 2
+- DjangoCMS 2.4
+
+This is my first Python script and it hasn't been thoroughly tested. Any optimisation tips and feedback are most welcome!
 
 
 ## Demo
